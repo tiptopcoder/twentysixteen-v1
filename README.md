@@ -7,7 +7,7 @@ I tried using OOP in `functions.php` file and found that now it's easier to mana
 ## Instruction
 1. Download
 
-Use one of 2 methods to download:
+  Use one of 2 methods to download:
   1. Git:
   
     `git clone https://github.com/TipTopCoder/twentysixteen-v1.git`
